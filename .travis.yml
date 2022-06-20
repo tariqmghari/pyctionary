@@ -13,6 +13,6 @@ install:
 deploy:
   provider: pypi
   username: "__token__"
-  password: "pypi-AgEIcHlwaS5vcmcCJDZiYjA5MmVmLTg5NTctNGEwNy05MTdmLWI0MTZiMzIyOTA1NgACO3sicGVybWlzc2lvbnMiOiB7InByb2plY3RzIjogWyJweWN0aW9uYXJ5Il19LCAidmVyc2lvbiI6IDF9AAAGIC3YkvkOHQtf2QQymmCRU39FYQW79JWiIlRYnRYAyv6K"
+  password: ""
   on:
     branch: master
